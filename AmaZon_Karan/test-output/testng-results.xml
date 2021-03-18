@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-03T15:23:28 IST" name="Default suite" finished-at="2021-02-03T15:23:59 IST" duration-ms="30808">
+    <groups>
+    </groups>
+    <test started-at="2021-02-03T15:23:28 IST" name="Default test" finished-at="2021-02-03T15:23:59 IST" duration-ms="30808">
+      <class name="com.SwadeshMart.Testcases.LoginTestCRM">
+        <test-method is-config="true" signature="setupsuite()[pri:0, instance:com.SwadeshMart.Testcases.LoginTestCRM@6dbb137d]" started-at="2021-02-03T15:23:25 IST" name="setupsuite" finished-at="2021-02-03T15:23:28 IST" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupsuite -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.SwadeshMart.Testcases.LoginTestCRM@6dbb137d]" started-at="2021-02-03T15:23:28 IST" name="setup" finished-at="2021-02-03T15:23:40 IST" duration-ms="11929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginApp()[pri:0, instance:com.SwadeshMart.Testcases.LoginTestCRM@6dbb137d]" started-at="2021-02-03T15:23:40 IST" name="LoginApp" finished-at="2021-02-03T15:23:56 IST" duration-ms="15856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApp -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:com.SwadeshMart.Testcases.LoginTestCRM@6dbb137d]" started-at="2021-02-03T15:23:56 IST" name="tearDownMethod" finished-at="2021-02-03T15:23:58 IST" duration-ms="1990" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginApp status=SUCCESS method=LoginTestCRM.LoginApp()[pri:0, instance:com.SwadeshMart.Testcases.LoginTestCRM@6dbb137d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SwadeshMart.Testcases.LoginTestCRM@6dbb137d]" started-at="2021-02-03T15:23:58 IST" name="tearDown" finished-at="2021-02-03T15:23:59 IST" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SwadeshMart.Testcases.LoginTestCRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
